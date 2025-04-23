@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "226050989877",
+    "project_id": "sapo-ii",
+    "storage_bucket": "sapo-ii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226050989877:android:a7899ffb4f3cc921e4f67c",
+        "android_client_info": {
+          "package_name": "com.example.korn_ferry_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0-BrgzwoKlOF6OSb4btQ5Iw7WNCS3Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226050989877:android:db6b90621e0ca317e4f67c",
+        "android_client_info": {
+          "package_name": "com.example.posts_korn_ferry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0-BrgzwoKlOF6OSb4btQ5Iw7WNCS3Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226050989877:android:a7482d24a3a9e076e4f67c",
+        "android_client_info": {
+          "package_name": "com.example.sapo_ii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0-BrgzwoKlOF6OSb4btQ5Iw7WNCS3Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
